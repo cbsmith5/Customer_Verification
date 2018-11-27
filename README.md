@@ -1,1 +1,1 @@
-# my_project
+This program was made by me with Python. The customer enters their e-mail, then they go through a series of questions asking for their information and each piece of information is validated. If a customer enters something wrong, an error message comes up and they must re-enter. After the customer enters everything and verifies their information is correct, then everything is printed to a text file.
